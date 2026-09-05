@@ -1,0 +1,9 @@
+{
+  "name": "BJCP Beer Style Guidelines",
+  "edition": "2021",
+  "version": "1.25",
+  "sourceUrl": "https://styles.bjcp.org/bjcp-2021-beer",
+  "retrievedAt": "2026-09-04",
+  "copyright": "Copyright 2021, Beer Judge Certification Program, Inc.",
+  "notes": "Local structured extraction from official BJCP Markdown style guideline pages for offline style matching. Appendix/local styles are not included in the main beer style database."
+}
